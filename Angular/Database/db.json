@@ -1,0 +1,25 @@
+{
+  "Students": [
+    {
+      "name": "Sanju",
+      "roll": 234,
+      "dob": "2022-04-02",
+      "score": 456,
+      "id": 1
+    },
+    {
+      "name": "Rahul Singh",
+      "roll": 11905949,
+      "dob": "2002-08-19",
+      "score": 498,
+      "id": 2
+    },
+    {
+      "name": "Shruti",
+      "roll": 11915742,
+      "dob": "1999-10-28",
+      "score": 550,
+      "id": 3
+    }
+  ]
+}
